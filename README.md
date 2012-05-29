@@ -39,12 +39,6 @@ Using this gem is as simple as the following:
 
 Please see LICENSE for licensing details.
 
-## Author
-
-Ryan LeCompte
-
-[@ryanlecompte](https://twitter.com/ryanlecompte)
-
 ## Acknowledgements
 
 The core of this gem was graciously based on recipe 5.11 from the
