@@ -8,7 +8,7 @@
 #
 # @note Mostly adapted from recipe 5.11 from the Ruby Cookbook.
 class WeightedRandomizer
-  VERSION = '0.1.1'
+  VERSION = '0.1.2'
 
   # Creates a new instance.
   #
